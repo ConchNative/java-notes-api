@@ -13,6 +13,7 @@ Backend Level Beyond homework assignment
 
 
 * API
+  * The base URL is http://localhost:8088/api/items
   * I implemented each of the API calls from the homework assignment.
   * I used an in memory db that needs to be populated each time prior to any queries
 
